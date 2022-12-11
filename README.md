@@ -4,7 +4,7 @@
 ##  🙋 Hello！
 
 <p>✍️&nbsp;&nbsp;大家好，我是小小蒙! 目前就读于太原理工大学软件工程专业大三，正在为成为一名正式的前端工程师而不断努力!</p>
-<br>
+
 <p>&emsp;&emsp;The front end is the messenger of communication with the world.</p>
 
 <p>&emsp;&emsp;前端，与世界沟通的使者。</p>
@@ -42,6 +42,10 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
 </div>
+
+##  🧠 学习计划
+
+试图逃离日复一日的切图/调接口生活，最近的学习计划是看看Vue的源码，了解一下three.js
 
 ##  🏆 数据统计
 <!-- GitHub奖杯🏆 -->
