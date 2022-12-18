@@ -10,7 +10,7 @@
 <p>&emsp;&emsp;前端，与世界沟通的使者。</p>
 <p>&emsp;&emsp;大一加入了<a style="color:rgb(30,128,255)" herf='https://baike.baidu.com/item/%E4%BA%91%E9%A1%B6%E4%B9%A6%E9%99%A2/23672117'>太原理工大学云顶书院</a>五期前端方向，从此走上了学习前端的不归路，距今已有两年时间</p>
 
-目前在美团的点评事业部实习
+&emsp;&emsp;目前在美团的点评事业部实习
 
 <img style="width:250px" src='./img/right.jpg'>
 
