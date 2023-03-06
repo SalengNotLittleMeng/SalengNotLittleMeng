@@ -11,7 +11,7 @@
 
 ## 🤹‍♀️ 实习经历
 
-<img style="width:250px;float:right" src='./img/right.jpg'>
+<!-- <img style="width:250px;float:right" src='./img/right.jpg'> -->
 <img align="center" style="width:20px;height:20px;" src='https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg'> <b>百度-移动生态事业群</b>
 
 <div style="height:25px"></div>
