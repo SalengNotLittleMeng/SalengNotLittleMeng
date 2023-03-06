@@ -15,13 +15,15 @@
 <img align="center" style="width:20px;height:20px;" src='https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg'> <b>百度-移动生态事业群</b>
 
 <div style="height:25px"></div>
-<img align="center" style="width:20px;" src='https://s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:9528bfdf/20201023%E7%94%A8%E6%88%B7%E6%9C%8D%E5%8A%A1logo/%E7%BE%8E%E5%9B%A2app.png'> <b>美团-点评事业部</b>
+<img align="center" style="width:20px;" src='https://s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:9528bfdf/20201023%E7%94%A8%E6%88%B7%E6%9C%8D%E5%8A%A1logo/%E7%BE%8E%E5%9B%A2app.png'> 
+<b>美团-点评事业部</b>
 <div style="height:25px"></div>
 
 <img align="center" style="width:20px;height:20px;" src='https://pic1.zhimg.com/v2-89fe8f822bb458161e263dd133356d73_xl.jpg?source=32738c0c'> <b>营探-开发中心</b>
 
 <div style="height:15px"></div>
-<img align="center" style="width:20px;height:20px;" src='https://www.loongson.cn/images/favicon.ico'> <b>龙芯中科-云芯研究院</b>
+<img align="center" style="width:20px;height:20px;" src='https://www.loongson.cn/images/favicon.ico'> 
+<b>龙芯中科-云芯研究院</b>
 <br>
 
 ## ✍️ 开源项目
