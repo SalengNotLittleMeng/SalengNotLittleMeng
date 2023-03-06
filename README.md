@@ -14,7 +14,7 @@
 <tr>
 <td>
 
-<img align="right" width="120" height="120" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
+<img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
 - [百度](https://about.meituan.com/home) &emsp; 📌 2023-03 —— Now
 
@@ -27,7 +27,7 @@
 <tr>
 <td>
 <div height="20"></div>
-<img align="right" width="120" height="120" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
+<img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
 
 - [美团](https://home.baidu.com/) &emsp; 📌 2022-12 —— 2023-03
 
@@ -40,7 +40,7 @@
     <tr>
     <td>
 
-<img align="right" width="120" height="120" src="https://pic1.zhimg.com/v2-89fe8f822bb458161e263dd133356d73_xl.jpg?source=32738c0c" />
+<img align="right" width="100" height="100" src="https://pic1.zhimg.com/v2-89fe8f822bb458161e263dd133356d73_xl.jpg?source=32738c0c" />
 
 - [营探](https://www.camptogo.com/) &emsp; 📌 2022-07 —— 2022-11
 
@@ -53,7 +53,7 @@
     <tr>
     <td>
 
-<img align="right" width="120" height="120" src="https://www.loongson.cn/images/favicon.ico" />
+<img align="right" width="100" height="100" src="https://www.loongson.cn/images/favicon.ico" />
 
 - [龙芯中科](https://www.loongson.cn/) &emsp; 📌 2021-07 —— 2021-09
   - 工作岗位：前端实习生
