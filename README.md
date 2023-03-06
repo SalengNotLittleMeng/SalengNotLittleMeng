@@ -9,22 +9,58 @@
 <p>&emsp;&emsp;前端，与世界沟通的使者。</p>
 <p>&emsp;&emsp;大一加入了<a style="color:rgb(30,128,255)" herf='https://baike.baidu.com/item/%E4%BA%91%E9%A1%B6%E4%B9%A6%E9%99%A2/23672117'>太原理工大学云顶书院</a>五期前端方向，从此走上了学习前端的不归路，距今已有两年时间</p>
 
-## 🤹‍♀️ 实习经历
+## 🏢 实习经历
 
-<!-- <img style="width:250px;float:right" src='./img/right.jpg'> -->
-<img align="center" style="width:20px;height:20px;" src='https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg'> <b>百度-移动生态事业群</b>
+<tr>
+<td>
 
-<div style="height:25px"></div>
-<img align="center" style="width:20px;" src='https://s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:9528bfdf/20201023%E7%94%A8%E6%88%B7%E6%9C%8D%E5%8A%A1logo/%E7%BE%8E%E5%9B%A2app.png'> 
-<b>美团-点评事业部</b>
-<div style="height:25px"></div>
+<img align="right" width="150" height="150" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
-<img align="center" style="width:20px;height:20px;" src='https://pic1.zhimg.com/v2-89fe8f822bb458161e263dd133356d73_xl.jpg?source=32738c0c'> <b>营探-开发中心</b>
+- [百度](https://about.meituan.com/home) &emsp; 📌 2023-03 —— Now
 
-<div style="height:15px"></div>
-<img align="center" style="width:20px;height:20px;" src='https://www.loongson.cn/images/favicon.ico'> 
-<b>龙芯中科-云芯研究院</b>
-<br>
+  - 工作岗位：前端实习生
+  - 工作部门：移动智能事业群
+  - 工作方向：百度问答 PC/小程序/H5 开发以及适配
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img align="right" width="150" height="150" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
+
+- [美团](https://home.baidu.com/) &emsp; 📌 2022-12 —— 2023-03
+
+  - 工作岗位：搜索前端实习生
+  - 工作部门：点评事业部
+  - 工作方向：B 端系统开发迭代以及性能调优，跨端应用（大众点评）开发
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+
+<img align="right" width="150" height="150" src="https://pic1.zhimg.com/v2-89fe8f822bb458161e263dd133356d73_xl.jpg?source=32738c0c" />
+
+- [营探](https://www.camptogo.com/) &emsp; 📌 2022-07 —— 2022-11
+
+  - 工作岗位：前端实习生
+  - 工作部门：开发中心
+  - 工作方向：商户端和管理端系统开发迭代，香组件优化与重构，技术面试
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+
+<img align="right" width="150" height="150" src="https://www.loongson.cn/images/favicon.ico" />
+
+- [龙芯中科](https://www.loongson.cn/) &emsp; 📌 2021-07 —— 2021-09
+  - 工作岗位：前端实习生
+  - 工作部门：云芯研究所
+  - 工作方向：摸鱼切图调接口
+  </td>
+  </tr>
 
 ## ✍️ 开源项目
 
