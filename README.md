@@ -14,7 +14,7 @@
 <tr>
 <td>
 
-<img align="right" width="150" height="150" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
+<img align="right" width="120" height="120" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
 - [百度](https://about.meituan.com/home) &emsp; 📌 2023-03 —— Now
 
@@ -26,34 +26,34 @@
 </tr>
 <tr>
 <td>
-
-<img align="right" width="150" height="150" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
+<div height="20"></div>
+<img align="right" width="120" height="120" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
 
 - [美团](https://home.baidu.com/) &emsp; 📌 2022-12 —— 2023-03
 
   - 工作岗位：搜索前端实习生
   - 工作部门：点评事业部
   - 工作方向：B 端系统开发迭代以及性能调优，跨端应用（大众点评）开发
-  </td>
-  </tr>
+    </td>
+    </tr>
+  <div height="20"></div>
+    <tr>
+    <td>
 
-  <tr>
-  <td>
-
-<img align="right" width="150" height="150" src="https://pic1.zhimg.com/v2-89fe8f822bb458161e263dd133356d73_xl.jpg?source=32738c0c" />
+<img align="right" width="120" height="120" src="https://pic1.zhimg.com/v2-89fe8f822bb458161e263dd133356d73_xl.jpg?source=32738c0c" />
 
 - [营探](https://www.camptogo.com/) &emsp; 📌 2022-07 —— 2022-11
 
   - 工作岗位：前端实习生
   - 工作部门：开发中心
   - 工作方向：商户端和管理端系统开发迭代，香组件优化与重构，技术面试
-  </td>
-  </tr>
+    </td>
+    </tr>
+  <div height="20"></div>
+    <tr>
+    <td>
 
-  <tr>
-  <td>
-
-<img align="right" width="150" height="150" src="https://www.loongson.cn/images/favicon.ico" />
+<img align="right" width="120" height="120" src="https://www.loongson.cn/images/favicon.ico" />
 
 - [龙芯中科](https://www.loongson.cn/) &emsp; 📌 2021-07 —— 2021-09
   - 工作岗位：前端实习生
