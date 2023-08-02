@@ -30,7 +30,7 @@
 
 <img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
-- [百度](https://about.meituan.com/home) &emsp; 📌 2023-03 —— Now
+- [百度](https://about.meituan.com/home) &emsp; 📌 2023-03 —— 2023-06
 
   - 工作岗位：前端实习生
   - 工作部门：移动智能事业群-知识研发部
