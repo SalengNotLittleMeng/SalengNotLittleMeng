@@ -17,11 +17,11 @@
 <td>
 <img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
 
-- [美团](https://home.baidu.com/) &emsp; 📌 2023-6 —— 至今
+- [美团](https://home.baidu.com/) &emsp; 📌 2023-6 —— 2023-10
 
   - 工作岗位：前端实习生
   - 工作部门：点评事业部-用户运营终端
-  - 工作方向：站外生态开发，安全基线接入，高性能web调研
+  - 工作方向：站外生态/移动端开发，安全基线接入，高性能web调研和建设
     </td>
     </tr>
   <div height="20"></div>
