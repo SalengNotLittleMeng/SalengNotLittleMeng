@@ -17,7 +17,7 @@
 <td>
 <img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
 
-- [美团](https://home.baidu.com/) &emsp; 📌 2023-6 —— 2023-10
+- [美团](https://about.meituan.com/home) &emsp; 📌 2023-6 —— 2023-10
 
   - 工作岗位：前端实习生
   - 工作部门：点评事业部-用户运营终端
@@ -30,7 +30,7 @@
 
 <img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
-- [百度](https://about.meituan.com/home) &emsp; 📌 2023-03 —— 2023-06
+- [百度](https://home.baidu.com/) &emsp; 📌 2023-03 —— 2023-06
 
   - 工作岗位：前端实习生
   - 工作部门：移动智能事业群-知识研发部
@@ -43,7 +43,7 @@
 <div height="20"></div>
 <img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
 
-- [美团](https://home.baidu.com/) &emsp; 📌 2022-12 —— 2023-03
+- [美团](https://about.meituan.com/home) &emsp; 📌 2022-12 —— 2023-03
 
   - 工作岗位：搜索前端实习生
   - 工作部门：点评事业部-搜索工程
