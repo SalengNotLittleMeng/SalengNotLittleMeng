@@ -2,17 +2,28 @@
 
 ## 🙋 Hello！
 
-<p>✍️&nbsp;&nbsp;大家好，我是小小蒙! 目前就读于太原理工大学软件工程专业大三，正在为成为一名正式的前端工程师而不断努力!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是小小蒙! 目前就读于太原理工大学软件工程专业大四，正在为成为一名正式的前端工程师而不断努力!</p>
 
 <p>&emsp;&emsp;The front end is the messenger of communication with the world.</p>
 
 <p>&emsp;&emsp;前端，与世界沟通的使者。</p>
-<p>&emsp;&emsp;大一加入了<a style="color:rgb(30,128,255)" herf='https://baike.baidu.com/item/%E4%BA%91%E9%A1%B6%E4%B9%A6%E9%99%A2/23672117'>太原理工大学云顶书院</a>五期前端方向，从此走上了学习前端的不归路，距今已有两年时间</p>
+<p>&emsp;&emsp;大一加入了<a style="color:rgb(30,128,255)" herf='https://baike.baidu.com/item/%E4%BA%91%E9%A1%B6%E4%B9%A6%E9%99%A2/23672117'>太原理工大学云顶书院</a>五期前端方向，从此走上了学习前端的不归路，距今已有两年半时间</p>
 
 目前正在为成为一名优质的大厂切图仔而不断努力
 
 ## 🏢 实习经历
+<tr>
+<td>
+<img align="right" width="100" height="100" src="https://ts1.cn.mm.bing.net/th/id/R-C.b93c0a9a873acbb4e13e1e77d5975b93?rik=4Xwq9Jrn41oh7Q&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2020%2f12-02%2f95028%2fwater_95028_698_698_.png&ehk=CDFrre652EG%2fS8voY%2bVePFqcGecPxV4v2uAza2pMoUE%3d&risl=&pid=ImgRaw&r=0" />
 
+- [快手](https://www.kuaishou.com/cn) &emsp; 📌 2023-6 —— 2023-10
+
+  - 工作岗位：前端实习生
+  - 工作部门：效率工程部-协同办公前端
+  - 工作方向：文档编辑器及其插件生态的开发和维护
+    </td>
+    </tr>
+  <div height="20"></div>
 <tr>
 <td>
 <img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
