@@ -14,7 +14,7 @@
 ## 🏢 实习经历
 <tr>
 <td>
-<img align="right" width="100" height="100" src="https://ts1.cn.mm.bing.net/th/id/R-C.b93c0a9a873acbb4e13e1e77d5975b93?rik=4Xwq9Jrn41oh7Q&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2020%2f12-02%2f95028%2fwater_95028_698_698_.png&ehk=CDFrre652EG%2fS8voY%2bVePFqcGecPxV4v2uAza2pMoUE%3d&risl=&pid=ImgRaw&r=0" />
+<img align="right" width="100" height="100" src="https://ts1.cn.mm.bing.net/th/id/R-C.6fb2d6cddf948552a94915242a2655dd?rik=oTft8TOcHqGPnQ&riu=http%3a%2f%2fp1.itc.cn%2fimages01%2f20200905%2fbad5bec84b064716b12e6fefaaa87980.jpeg&ehk=LyNfW35zduFvSmvvqK6oVAJ7q2CzY9qoNDS82yJ4Zmg%3d&risl=&pid=ImgRaw&r=0" />
 
 - [快手](https://www.kuaishou.com/cn) &emsp; 📌 2023-6 —— 2023-10
 
