@@ -39,7 +39,7 @@
     <tr>
     <td>
 
-<img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
+<img align="right" width="100" height="100" src="https://pic.ntimg.cn/file/20200605/23605973_173021196899_2.jpg" />
 
 - [百度](https://home.baidu.com/) &emsp; 📌 2023-03 —— 2023-06
 
