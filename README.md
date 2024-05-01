@@ -16,7 +16,7 @@
 <td>
 <img align="right" width="100" height="100" src="https://ts1.cn.mm.bing.net/th/id/R-C.6fb2d6cddf948552a94915242a2655dd?rik=oTft8TOcHqGPnQ&riu=http%3a%2f%2fp1.itc.cn%2fimages01%2f20200905%2fbad5bec84b064716b12e6fefaaa87980.jpeg&ehk=LyNfW35zduFvSmvvqK6oVAJ7q2CzY9qoNDS82yJ4Zmg%3d&risl=&pid=ImgRaw&r=0" />
 
-- [快手](https://www.kuaishou.com/cn) &emsp; 📌 2023-6 —— 2023-10
+- [快手](https://www.kuaishou.com/cn) &emsp; 📌 2024-3 —— 至今
 
   - 工作岗位：前端实习生
   - 工作部门：效率工程部-协同办公前端
