@@ -14,7 +14,7 @@
 ## 🏢 实习经历
 <tr>
 <td>
-<img align="right" width="100" height="100" src="https://ts1.cn.mm.bing.net/th/id/R-C.6fb2d6cddf948552a94915242a2655dd?rik=oTft8TOcHqGPnQ&riu=http%3a%2f%2fp1.itc.cn%2fimages01%2f20200905%2fbad5bec84b064716b12e6fefaaa87980.jpeg&ehk=LyNfW35zduFvSmvvqK6oVAJ7q2CzY9qoNDS82yJ4Zmg%3d&risl=&pid=ImgRaw&r=0" />
+<img align="right" width="100" height="100" src="https://s2-111422.kwimgs.com/kos/nlav111422/pc-vision/img/new-logo.79c3bfe1.svg" />
 
 - [快手](https://www.kuaishou.com/cn) &emsp; 📌 2024-3 —— 至今
 
@@ -39,7 +39,7 @@
     <tr>
     <td>
 
-<img align="right" width="100" height="100" src="https://pic.ntimg.cn/file/20200605/23605973_173021196899_2.jpg" />
+<img align="right" width="100" height="100" src="www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" />
 
 - [百度](https://home.baidu.com/) &emsp; 📌 2023-03 —— 2023-06
 
