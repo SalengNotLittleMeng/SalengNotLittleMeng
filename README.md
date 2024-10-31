@@ -14,7 +14,7 @@
 ## 🏢 实习经历
 <tr>
 <td>
-<img align="right" width="100" height="100" src="[https://s2-111422.kwimgs.com/kos/nlav111422/pc-vision/img/new-logo.79c3bfe1.svg](https://s1.aigei.com/src/img/png/9c/9cabda94edd745da9a9d9154fc62dea4.png?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:zFB8w5bOh1EyUcYxWeYoUwQQjxg=)" />
+<img align="right" width="100" height="100" src="https://www.eternityx.com/wp-content/uploads/2022/04/Kuaishou-%E5%BF%AB%E6%89%8B-Logo.png" />
 
 - [快手](https://www.kuaishou.com/cn) &emsp; 📌 2024-3 —— 至今
 
