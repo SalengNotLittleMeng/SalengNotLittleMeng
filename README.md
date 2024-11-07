@@ -2,14 +2,14 @@
 
 ## 🙋 Hello！
 
-<p>✍️&nbsp;&nbsp;大家好，我是小小蒙! 目前就读于太原理工大学软件工程专业大四，正在为成为一名正式的前端工程师而不断努力!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是小小蒙! 毕业太原理工大学，现就职于快手，从事协同文档/富文本编辑器的开发迭代工作</p>
 
 <p>&emsp;&emsp;The front end is the messenger of communication with the world.</p>
 
 <p>&emsp;&emsp;前端，与世界沟通的使者。</p>
-<p>&emsp;&emsp;大一加入了<a style="color:rgb(30,128,255)" herf='https://baike.baidu.com/item/%E4%BA%91%E9%A1%B6%E4%B9%A6%E9%99%A2/23672117'>太原理工大学云顶书院</a>五期前端方向，从此走上了学习前端的不归路，距今已有两年半时间</p>
+<p>&emsp;&emsp;大一加入了<a style="color:rgb(30,128,255)" herf='https://baike.baidu.com/item/%E4%BA%91%E9%A1%B6%E4%B9%A6%E9%99%A2/23672117'>太原理工大学云顶书院</a>五期前端方向，从此走上了学习前端的不归路，距今已有三年半时间</p>
 
-目前正在为成为一名优质的大厂切图仔而不断努力
+
 ## 🏢工作经历
 <img align="right" width="100" height="100" src="https://www.eternityx.com/wp-content/uploads/2022/04/Kuaishou-%E5%BF%AB%E6%89%8B-Logo.png" />
 
